@@ -8,3 +8,4 @@ another_dystr = dtstr[:4] + "0101"
 another_dt = datetime.datetime.strptime(another_dystr, "%Y%m%d")
 print(int((dt - another_dt).days) + 1)
 WINDOW
+jhweeufef
